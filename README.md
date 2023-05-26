@@ -3,8 +3,6 @@
 A empresa Teceo, precisa garantir que o cadastro de loja esteja em correto funcionamento
 Você pode acessar aplicação em: https://www.teceo.co/
 
-Como estratégia, eles decidiram incluir testes de regressão da jornada de cadastro da loja como uma de suas rotinas de desenvolvimento. Nessa jornada, o usuário segue basicamente os seguintes passos:
-
 **Funcionalidade**: Cadastro de loja
 
 Contexto
@@ -37,7 +35,7 @@ Após a instalação dos pré-requisitos, para utilizar este projeto, primeirame
 
 Clonar projeto Git
 ```
-git clone https://github.com/mayconnoetzold/teceoTest.git
+git clone https://github.com/mayconnoetzold/teceo.git
 ```
 ## ⚙️ Executando os testes
 - Caso desejar executar os testes em modo headless deve-se utilizar o seguinte script:
