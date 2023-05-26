@@ -1,9 +1,9 @@
 /// <reference types="cypress" />
+import '@bahmutov/cy-api'
+import loja from "../support/pages/loja/index"
 
 describe('Cadastro loja', () => {
   it('Validação fluxo de cadastro da loja', () => {
-    cy.visit('/')
-    cy.contains('de uma loja').click()
-
-  });
-});
+    loja.cadastroLoja()
+  })
+})
