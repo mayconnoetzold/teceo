@@ -1,5 +1,5 @@
 {
-  "integrationFolder": "C:/Users/maycon.noetzold/Desktop/teceo/cypress/tests",
+  "integrationFolder": "cypress/tests",
   "baseUrl": "https://www.teceo.co/",
   "apiUrlExternal": "https://api.app.teceo.co/stores/",
   "reporter": "cypress-multi-reporters",
